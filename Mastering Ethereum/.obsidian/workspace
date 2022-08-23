@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "f19b7798418cfe18",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fe15e28b4e19e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Q&A Interview Style.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2087e069a3496ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fa439d32efdf4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1531906e6f038c97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88de2602bf219f3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad26fc595e69e867",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f8878a336eb686d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8fa6b0847cd7608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "417f94c72f447926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Q&A Interview Style.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32da4a338095fef0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Q&A Interview Style.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9f8f82f1d15b70b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b0c704fac966cc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Q&A Interview Style.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "10fe15e28b4e19e8",
+  "lastOpenFiles": [
+    "EthClient/JSON-RPC Interface.md",
+    "EthClient/Full node Advantages and Disadvantages.md",
+    "EthBasics/Registering Contract.md",
+    "EthBasics/Externally Owned Accounts(EOAs) and Contracts.md",
+    "What is ethereum/What is Ethereum.md",
+    "What is ethereum/General purpose of blockchain.md",
+    "What is ethereum/Components of Blockchain.md",
+    "Q&A Interview Style.md"
+  ]
+}

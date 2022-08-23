@@ -1,0 +1,1 @@
+Registering a contract on the blockchain involves creating a special transaction whose destination is the address 0x0000000000000000000000000000000000000000, also known as the _zero address_. The zero address is a special address that tells the Ethereum blockchain that you want to register a contract.
